@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Livro Teca", "Livro Teca.csproj", "{628B0B33-AA84-42D0-9D87-13FE5883A00E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{628B0B33-AA84-42D0-9D87-13FE5883A00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628B0B33-AA84-42D0-9D87-13FE5883A00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628B0B33-AA84-42D0-9D87-13FE5883A00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628B0B33-AA84-42D0-9D87-13FE5883A00E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {757BD1CD-55CC-45CC-9E0C-A9D70A1369CB}
+	EndGlobalSection
+EndGlobal
