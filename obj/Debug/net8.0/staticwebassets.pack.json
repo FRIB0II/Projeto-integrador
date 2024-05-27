@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nicol\\OneDrive\\Documentos\\Clones de repositórios\\Projeto-Integrador\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Livro Teca.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Livro Teca.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\nicol\\OneDrive\\Documentos\\Clones de repositórios\\Projeto-Integrador\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\nicol\\OneDrive\\Documentos\\Clones de repositórios\\Projeto-Integrador\\wwwroot\\images\\Icon-livro-teca.jpg",
+      "PackagePath": "staticwebassets\\images\\Icon-livro-teca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nicol\\OneDrive\\Documentos\\Clones de repositórios\\Projeto-Integrador\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Livro Teca.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Livro Teca.props",
+      "PackagePath": "build\\Livro Teca.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Livro Teca.props",
+      "PackagePath": "buildMultiTargeting\\Livro Teca.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Livro Teca.props",
+      "PackagePath": "buildTransitive\\Livro Teca.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

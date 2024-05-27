@@ -1,0 +1,31 @@
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\bin\Debug\net8.0\appsettings.json
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\bin\Debug\net8.0\Livro Teca.staticwebassets.runtime.json
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\bin\Debug\net8.0\Livro Teca.exe
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\bin\Debug\net8.0\Livro Teca.deps.json
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\bin\Debug\net8.0\Livro Teca.runtimeconfig.json
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\bin\Debug\net8.0\Livro Teca.dll
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\bin\Debug\net8.0\Livro Teca.pdb
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\Livro Teca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\Livro Teca.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\Livro Teca.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\Livro Teca.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\Livro Teca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\Livro Teca.RazorAssemblyInfo.cache
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\Livro Teca.RazorAssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\Livro Teca.sourcelink.json
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\staticwebassets\msbuild.Livro Teca.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\staticwebassets\msbuild.build.Livro Teca.props
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Livro Teca.props
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Livro Teca.props
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\scopedcss\bundle\Livro Teca.styles.css
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\scopedcss\projectbundle\Livro Teca.bundle.scp.css
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\Livro Teca.dll
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\refint\Livro Teca.dll
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\Livro Teca.pdb
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\Livro Teca.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Documentos\Clones de repositórios\Projeto-Integrador\obj\Debug\net8.0\ref\Livro Teca.dll
