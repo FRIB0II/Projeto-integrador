@@ -1,6 +1,5 @@
-# import tkinter as tk
 import mysql.connector
-# from tkinter import *
+
 import projetointegrador2
 from datetime import datetime,timedelta
 
@@ -21,38 +20,6 @@ def entrar(usuario_login, senha_login):
   cont =1 
   return cont
 
-"""
-def cadastrar():
- 
- root = tk.Tk()
- root.geometry("450x300")
- root.title("Fazer o cadastro")
-
- label1 = tk.Label(root, text="Email:" )
- label1.place(x=50, y=20)
-
- global entry1
- global entry2
- global entry3
-
- entry1 = tk.Entry(root, width=35)
- entry1.place(x=100, y=20, width=100)
-
- label2 = tk.Label(root, text="Usuário:")
- label2.place(x=50, y=50)
-
- entry2 = tk.Entry(root, width=35)
- entry2.place(x=100, y=50, width=100)
-
- label3 = tk.Label(root, text="Senha:")
- label3.place(x=50, y=80)
-
- entry3 = tk.Entry(root, width=35 )
- entry3.place(x=100, y=80, width=100)
-
- botao = tk.Button(root, text="CADASTRAR", bg='lightblue', command = cadastro)
- botao.place(x=110, y=110, width=75)
- """
 
 def cadastro(email_cad, usuario_cad, senha_cad, cod):
  cad = projetointegrador2.cadastro1(email_cad, usuario_cad, senha_cad, cod)
@@ -81,31 +48,6 @@ def inserir2(login1):
     meuBancoDeDados.commit()
     consultar()
 
-"""
-def login():
-
- root = tk.Tk()
- root.geometry("450x300")
- root.title("Fazer o login")
-
- label1 = tk.Label(root, text="Usuário:" )
- label1.place(x=130, y=20)
-
- global entryy1
- global entryy2
-
- entryy1 = tk.Entry(root, width=35)
- entryy1.place(x=100, y=50, width=100)
-
- label2 = tk.Label(root, text="Senha:")
- label2.place(x=130, y=80)
-
- entryy2 = tk.Entry(root, width=35)
- entryy2.place(x=100, y=110, width=100)
-
- botao = tk.Button(root, text="ENTRAR", bg='lightblue', command = entrar)
- botao.place(x=120, y=150, width=55)
-"""
 
 def consultar():
     meuCursor = conexao()
@@ -155,57 +97,6 @@ def consultar():
     if cont2 != 1:
         print("Login não existe, faça o seu cadastro")    
 
-"""    
-def pesquisa():
-   
-   livro1 = entry4.get()
-   livro2 = entry5.get()
-
-   meuCursor = conexao()
-   sql = "SELECT * FROM livro"
-   meuCursor.execute(sql)
-
-   meusResultados = meuCursor.fetchall()
- 
-   global cont 
-   cont = 0
-
-   for resultado in meusResultados: 
-     liv = projetointegrador2.livro(resultado[0],resultado[1], resultado[2])
-     liv1 = liv.titulo
-     liv2 = liv.autor
-     global liv3
-     liv3 = liv.cod
-     if liv1 == livro1 and liv2 == livro2:
-        print("Livro encontrado")
-        cont = 1
-
-   if cont != 1:
-        print("Livro nao existe")
-  
-def livro():
- root = tk.Tk()
- root.geometry("450x300")
- root.title("Livro")
-
- label1 = tk.Label(root, text="Título:" )
- label1.place(x=45, y=20)
-
- global entry4
- global entry5
-
- entry4 = tk.Entry(root, width=35)
- entry4.place(x=100, y=20, width=100)
-
- label2 = tk.Label(root, text="Autor:")
- label2.place(x=45, y=80)
-
- entry5 = tk.Entry(root, width=35)
- entry5.place(x=100, y=80, width=100)
-
- botao2 = tk.Button(root, text="EMPRESTAR", bg='lightblue', command = emprestimo)
- botao2.place(x=115, y=120, width=70)
- root.mainloop()"""
 
 def emprestimo(titulo, autor):
    print('Socorro')
@@ -253,18 +144,3 @@ def emprestimo(titulo, autor):
       print(f"Data da devolução: {dt_devolucao}")
       cont = 1
       return dt_devolucao
-    
-
-"""
-root = tk.Tk()
-root.geometry("350x200")
-root.title("Escolha")
-
-botao1 = tk.Button(root, text="Login", bg='lightblue', command = login)
-botao1.place(x=80, y=40, width=55)
-
-botao2 = tk.Button(root, text = "Cadastrar", bg= 'lightblue', command=cadastrar)
-botao2.place(x=155, y=40, width=55)
-
-root.mainloop()
-"""
